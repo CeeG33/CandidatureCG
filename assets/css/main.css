@@ -109,6 +109,12 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+	#about iframe
+	{
+		display: block;
+		margin: auto;
+	}
+
 /* Type */
 
 	html {
